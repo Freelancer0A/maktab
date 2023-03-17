@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">TItle</string>
+    <string name="des">Description</string>
+    <string name="create">Create</string>
+    <string name="cancel">cancel</string>
+</resources>
